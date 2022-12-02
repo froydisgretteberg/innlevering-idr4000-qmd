@@ -1,3 +1,134 @@
+---
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
 # Deloppgave 3: Vitenskapsfilosofi
 
 <!-- Part 3: Philosophy of science -->
+
+## Falsifikasjonisme
+
+Filosofen Karl Popper utviklet falsifiseringskriteriumet som omhandler differensieringen mellom vitenskap og uvitenskapelig teorier (Popper, 1969).
+Falsifiseringskriteriumet er et resultat av tre variabler; demarkasjonsproblemet, induksjonsproblemet og risikable forutsigelser (Popper, 1969).
+Demarkasjonsproblemet danner grunnlaget for utfordringene knyttet til skille mellom vitenskap og pseudovitenskap.
+Med andre ord skille vitenskapelige teorier fra ikke-vitenskapelige teorier.
+Induksjonsproblemet stiller spørsmål ved både forståelsen om hvordan man kan med sikkerhet vite at en vitenskapelig teori i bunn faktisk er sann, og om de resultatene som blir fremstilt er pålitelige.
+Risikable forutsigelser er de forutsigelser en kan trekke som vil være vanskelig eller umulig å falsifisere.
+Målet med falsifiseringskriteriumet er å kunne differensiere mellom vitenskapelige og uvitenskapelige teorier.
+Popper mente det ville være vanskelig å verifisere teorier, og mente løsningen ville være å falsifisere teoriene.
+Med andre ord ønsket han å avkrefte om en teori var sann eller usann (Popper, 1969).
+Eksempel kan en teori si at alle trær er grønne, det er umulig avkrefte om alle trær som er, har vært eller kommer til å bli er grønne.
+Med denne tankegangen ønsket Popper å vise at det er umulig å kunne vite om teorien er sann eller usann, fordi vi ikke med sikkerhet kan vite hva fortiden har vist eller hva fremtiden vil bringe.
+Derimot kan teorien bli falsifisert hvis en observerer et tre som ikke er grønt.
+Filosofen Samir Okasha har beskrevet flere utfordringer vedrørende Popper sitt falsifiseringskriterium.
+En utfordring som Okasha har poengtert er hvordan falsifisering kan påvirke verdensoppfatning hvis en konstant skal falsifisere teorier (Okasha, 2016).
+Okasha begrunner dette med at det er noe uklart med en teori som kan endres slik at den passer med de empiriske dataene.
+Okasha ønsker heller å skille mellom hvordan vitenskapelige teorier blir eller er bekreftet, så selve prosessen som ligger bak fremfor det at teorien i seg selv skal være vitenskap eller pseudovitenskap.
+Okasha nevner hvor bred vitenskapen er og at målet med vitenskap ikke bare er å motbevise teorier, men også anta hvilke teorier som kan være sanne (Okasha, 2016).
+Popper derimot mente at vitenskapelige teorier som ikke var mulig å falsifisere, men som fikk de empiriske bevisene til å passe inn i teorien, uansett var lite troverdig og at de ikke burde godtas som vitenskapelige teorier (Okasha, 2016).
+For å forklare nevnte Popper teorier og eksempler fra Marx og Freud, deres teorier mente Popper var vanskelig og utfordrende å faktisk kunne akseptere som vitenskapelige teorier (Okasha, 2016).
+Jeg synes det er vanskelig å si meg helt enig med Popper.
+Til en viss grad er jeg enig i at om en teori motbevises vil den til en viss grad være «uekte», og jeg er enig i at det skal være åpenhet om å faktisk tvile på ulike teorier.
+Derimot synes jeg det er vanskeligere å si meg enig at hvis en teori ikke er falsifiserbar at den da ikke er vitenskapelig.
+Vitenskapsfeltet er så bredt og jeg har vanskelig for å tro at en teori om teorier skal kunne forklare dem alle.
+Derfor vil jeg si meg litt mer enig i de andre vitenskapsfilosofene enn med Popper.
+
+## HD-metoden og abduksjon
+
+I følge den hypotetisk deduktive metoden (HD- metoden) er strukturen på et bekreftende argument basert på å oppnå positive resultater basert på de innhentede dataene når man tester de deduktive konsekvensene av teorien (Hempel, 1966).
+Strukturen til HD- metoden er bygd opp av fire ulike trinn.
+1.
+Her vil det oppdages en ny hypotese eller teori.
+I det første trinnet vil hypotesen eller teorien bli formulert.
+2.
+Hypotesen eller teorien med deduksjon.
+I neste trinn vil empiriske konsekvenser bli dratt ut fra hypotesen eller teorien.
+3.
+Undersøkelser blir utført.
+Det påfølgende trinnet tar for seg observasjon eller testing av de ulike empiriske konsekvensene.
+4.
+Verifisering av undersøkelsene opp mot hypotese eller teori.
+Deretter vil det siste trinnet verifisere om de empiriske konsekvensene faktisk stemmer eller om det er usant.
+Hvis de empiriske konsekvensene stemmer vil teorien eller hypotesen bli bekreftet, på et induktivt vis (Dellsén, 2022).
+Når relevant data er innsamlet kan en konkludere med de empiriske konsekvensene, og kan eventuelt få en induktiv bekreftelse av hypotesen.
+Det vil ikke bety at hypotesen ikke stemmer, men at andre årsaker også kan ha innvirkning og påvirkning på hypotesen (Hempel, 1966).
+Et eksempel på en hypotese/teori er «vil vann få en kaktus til å vokse fort?»
+.
+Et deduktivt argument vil da være at siden alle planter er avhengig av vann for å vokse, vil da også en kaktus vokse når den får vann.
+I trinn tre vil hypotesen/teorien testes ut.
+Da kan en eksempelvis vanne en kaktus uten å tilføre noe annet enn vann i en gitt periode og måle eventuell vekst.
+Dersom kaktusen faktisk har vokst betydelig under den gitte perioden vil teorien/hypotesen blitt bekreftet.
+Derimot hvis kaktusen hadde sluttet å vokse og eventuelt begynt å visne ville hypotesen/teorien blitt motbevist, og en må da prøve en annen hypotese.
+Testleder ville kanskje observert at faktorer som at sollys, plassering og jordsmonn også har en betydning for at planter vokser.
+Dermed kan det være aktuelt å prøve å endre de andre faktorene sammen med vanning for å se om kaktusen kan vokse fortere enn bare ved hjelp av vann alene.
+Abduksjon er en vitenskapelig metode vi kan bruke for å bekrefte eller avkrefte teorier eller hypoteser.
+Ved å bruke abduksjon har en flere teorier med forskjellige utgangspunkter og deretter finne den som styrker dataene best.
+Dette gjøres via eksempelvis forklaringskraft, hvis teorien kan forklare flere variabler til dataen vil det styrke den spesifikke teorien.
+En annen faktor kan være hvis teorien forklarer dataene med færre elementer vil også dette styrke den spesifikke teorien (Dellsén, 2022).
+Med andre ord vil abduksjon sammenligne flere teorier som kan forklare den overordnede teorien eller hypotesen og velge den som forklarer dataene best.\
+
+HD-metoden bekrefter eller avkrefter én teori, mens abduksjon kan bekrefte eller avkrefte flere teorier.
+En svakhet med HD- metoden er hvordan det kan være flere måter å svare på de empiriske konsekvensene, og at dette kan være meget tilfeldig.
+Dette kan resultere i at en bekrefter en teori basert på for lite informasjon, og at det heller er andre vinklinger som vil forklare teorien bedre.
+Dette er en av grunnen til at abduksjon ble skapt, at en ønsker å se flere løsninger og muligheter for å kunne forklare et fenomen.
+Med andre ord vil en via abduksjon benytte seg av flere ulike teorier, og vil nødvendigvis ikke være helt fastlåst til kun én teori.
+Likheten i de to ulike teoriene er at de begge tar for seg teori som legger grunnlaget for å gi svar på de forventede konsekvensene, deretter sammenligner de faktiske observasjonene med forventningene for å kunne utføre en induktiv bekreftelse på teorien.
+
+## Replikasjonskrisen
+
+Ifølge filosofen Alexander Bird er replikasjonskrisen en konsekvens av et problem funnet innenfor forskningsfeltet.
+Han mener det er et stort problem som kan ha ulike negative konsekvenser for vitenskapen og at troverdigheten rundt forskning (Bird, 2018).
+For å forklare replikasjonskrisen har Bird tre konsepter; type-1 feil, type 2-feil og basefrekvensfeil.
+Type-1 feil innebærer at en aksepterer en hypotese eller teori som ikke stemmer.
+Type-2 feil er når en utelukker en teori eller hypotese som faktisk stemmer.
+Basefrekvensfeil er feil som oppstår når man trekker en slutning om sannsynligheten for en bestemt forekomst av et generelt fenomen.
+Bird legger vekt på hvordan falske-positive eller falske-negative forkastninger fort kan oppstå, og at dette vil ha store konsekvenser for hypotesetestingen.
+Bird tar for seg et eksempel hvor passasjerer på et fly blir undersøkt for om de er terrorister, denne testen viser seg å være 95% riktig.
+Som vil si at i dette eksempelet vil 95 av 100 personer ikke være terrorister.
+Derimot vil 5 personer være terrorister.
+I verste tilfellet hvis en person ikke består testen vil denne personen bli sett på som en terrorist.
+Sannsynligheten for at dette stemmer mente Bird var latterlig, og at hvis denne testen ble trodd ville det føre til at en usann teori blir akseptert (Bird, 2018).
+Bird mener dog at om flere hypoteser som testes er usanne vil sannsynlighet for at hypotesene som faktisk bekreftes være lav.
+Med replikasjonskrisen har Bird også poengtert hvordan skjevheter kan oppstå (Bird, 2018).
+Dette skjer når resultatene blir fremstilt på en spesifikk måte for å avgjøre om studien kan publiseres.
+Eksempelvis kan replikasjons bias skje hvis det ofte blir publisert studier med statistisk signifikante resultater.
+Det er flere forklaringer for hvorfor replikasjonskrisen er et problem.
+Bird nevner hvordan flere studier mangler validitet eller at studier ikke gjennomføres på en måte som kan repeteres på samme måte.
+Med validitet legges det vekt på at studiet ikke blir gjennomført slik det i studien er beskrevet at det er gjort.
+En annen kritisk faktor som Bird nevner er hacking av resultater, med andre ord, eksempelvis hvordan resultater kan bli manipulert for at studien skal se bedre ut (Bird, 2018).
+For å minske replikasjonskrisen mente Bird det ville være en stor fordel å styrke statistikken i forhold til vitenskapen.
+Basert på Bird sin forklaring på replikasjonskrisen og andre forskere svar på replikasjonskrisen virker det som om Bird har forklaringer og argumenter som er godt støttet av eksempler (Bird, 2018).
+For å vite hvilke forklaringer som egner seg best trenger en å gå grundig til verks og analysere de ulike argumentene.
+Deretter finne de forklaringer som kan best forklare skjevheter og forfalskninger som kan oppstå under et forskningsarbeid.
+Basert på Bird sin forklaring av replikasjonskrisen vil jeg si han argumenterer godt for hvordan han sin forklaring er god, og hvordan den kan forklare og gi styrke til replikasjonskrisen.
+
+## Litteraturliste
+
+Bird, A.
+(2018).
+Understanding the Replication Crisis as a Base Rate Fallacy.
+The British Journal for the Philosophy of Science, 72(4), 965-993.
+https://doi.org/10.1093/bjps/axy051
+
+Dellsén, F.
+(14. oktober. 2022).
+Abduksjon og sannsynlighet.
+
+Hempel, C. G.
+(1966).
+Scientific inquiry: Invention and Test.
+Philosophy of natural science, 3-18.
+Prentice Hall.
+
+Okasha, S.
+(2016).
+Philosophy of science: a very short introduction (2. Utg).
+Oxdford University Press.
+
+Popper, K. R.
+(1969).
+Science: Conjectures and Refutations.
+Conjectures and refutations: the growth of scientific knowledge (3. Utg), 33-99.
+Routledge and Kegan Paul.

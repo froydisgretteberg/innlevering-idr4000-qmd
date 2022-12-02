@@ -1,3 +1,136 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
 # Deloppgave 4: Studiedesign
 
 <!-- Part 4: Study designs -->
+
+## Introduksjon
+
+Denne oppgaven tar for seg fem artikler som undersøker påvirkningen
+trening kan ha for pasienter som lider av kronisk obstruktiv lungesykdom
+(kols). Artiklene vil sammenlignes basert på metode, resultater, design
+og deres statistiske analyser. Videre vil denne oppgaven fremheve
+svakheter og styrker ved de ulike artiklene. Disse slutningene vil bidra
+til en vurdering av hva som kan forbedres til en eventuell ny studie.
+
+## Metode
+
+Vedlegg 1 viser en kort og enkel oversikt over de fem artiklene som er
+brukt i denne oppgaven, og gir en kort oppsummering av hver enkelt
+artikkel.
+
+### Spørsmål/hypotese
+
+Artiklene ønsker å belyse hvordan trening kan påvirke pasienter med kols
+[@palange2000] [@Rinaldo2017] [@wada2016] [@wedzicha1998]
+[@Zambom-Ferraresi2015]. Palange et al. (2000) har fokusert på
+påvirkningsfaktorer som bidrar til at kols-pasienter kan ha en nedsatte
+treningsevne. Derimot har Rinaldo et al. (2017) sett på utfordringer og
+muligheter for hvordan kols pasienter kan være mer fysisk aktive. Wada
+et al. (2016) har hatt en vinkling som ser hvordan aerob trening
+kombinert med tøying av respiratoriske muskler kan bidra til bedre helse
+for pasientene. Wedzicha et al. (1998) fokusert på hvordan
+kroppsvekttrening kan ha en positiv effekt på kols pasienter, enten om
+de kan bevege seg ut av huset eller om de er avhengig av å trene hjemme.
+Til slutt har Zambom-Ferraresi et al. (2015) har sett om det kan være en
+signifikant forskjell mellom styrketrening og utholdenhetstrening, og
+eventuelt om en kombinasjon er optimal.
+
+### Logikk
+
+De ulike studiene har ulike begrunnelser for valg av hypotese.
+Eksempelvis mener Palange et al. (2000) at treningstoleranse for
+kols-pasienter har blitt forsket mye på, mens de fysiologiske og
+metabolske prosessene som blir brukt under dagligdagse gjøremål er
+mindre forsket på. Derimot påpekte Wada et al. (2017) at pasienter med
+kols burde ha godt utbytte av tøying og trening av respiratoriske
+muskler, men at det var lite forsket på i kliniske studier. Videre mente
+Wedzicha et al. (1998) at det var lite studier som inkluderte pasienter
+med alvorlig kols, og hvordan også deres helse kunne få forbedringer med
+spesifikk trening.
+
+### Studiedesign
+
+Felles for alle studiene i denne oppgaven er valg av studiedesign. De
+alle har valgt å gjennomføre randomisert kontrollert studie (RCT)
+[@palange2000] [@Rinaldo2017] [@wada2016] [@wedzicha1998]
+[@Zambom-Ferraresi2015]. Det som skiller studiene fra hverandre er valg
+av intervensjon, lengde på intervensjon og valg av grupper. To av
+studiene har valgt å inkludere en kontrollgruppe [@wada2016]
+[@Zambom-Ferraresi2015].
+
+### Forsøkspersoner
+
+En vesentlig stor ulikhet i de forskjellige studiene er antall
+deltakere, som varierer fra 9 til 126. Videre varierte graden av kols
+som deltakerne i studiene hadde fra moderat til alvorlig kols.
+
+## Resultater
+
+Felles for alle intervensjonen er at de hadde en effekt på
+pasientutvalget i deres respektive studier.
+
+## Diskusjon
+
+Det er flere likheter og ulikheter i de overnevnte artiklene. Ulikheter
+kan en se i valg av eksempelvis treningsopplegg, problemstilling og
+utvalgsstørrelse. Flere av studiene benytter seg av randomiserte
+studier, i slike studier vil det være en kontrollgruppe som kan belyse
+om intervensjonen faktisk utgjør en forskjell. Mangelen på
+kontrollgruppe i noen av studiene kan være en svekkende faktor for
+studienes konklusjon. Flere av studiene benyttet seg av «power»-test og
+vil derfor ha en større statistisk styrke enn studiene som ikke har tatt
+den samme testen. Felles faktor for de testene som fullførte power test
+er at de har et større utvalg av deltakere, som kan bidra til større
+troverdighet for resultatene av studiene. En faktor som kommer frem i
+flere av studiene er valget i utvalget deres. Ofte er det brukt menn,
+som kan påvirke muligheten for å generalisere eventuelle funn til resten
+av populasjonen. Om utvalget har blitt påvirket av hvem som har valgt å
+delta eller om det er et bevisst valg av forskerne er vanskelig å si.
+
+## Videre forskning
+
+Fremtidige tester burde inkludere kontrollgrupper, ha en power-test og
+et utvidet utvalg som inkluderer både kvinner og menn. Da vil den
+statistiske styrken til studien øke, det vil være enklere å bekrefte om
+intervensjonen fungerte og det vil være enklere å generalisere
+eventuelle funn. Videre kan det være gunstig å ha en lengre
+oppfølgingstid for å kunne forske på langtidseffekten av studien.
+
+## Litteraturliste
+
+Palange, P., Forte, S., Onarati, P., Manfredi, F., Serra., P. &
+Carlone,S. (2000). Ventilatory and metabolic adaptions to walking and
+cycling in patients with COPD. Journal of Applied Physiology, 88(5),
+1715-1720. https://doi.org/10.1152/jappl.2000.88.5.1715
+
+Rinaldo, N., Bacchi, E., Coratella, G., Vitali, F., Milanese, C., Rossi,
+A., Schena, F. & Lanza, M. (2017). Effects of combined aerobic-strength
+training vs fitness education program in COPD patients. International
+Journal of Sports Medicine, 38(13), 1001- 1008.
+https://doi:10.1055/s-0043112339
+
+Wada, J. T., Borges-Santos, E., Porras, D. C., Paisani, D. M., Cukier,
+A., Lunardi, A. C. & Carvalho, C. R. F. (2016). Effects of aerobic
+training combined with respiratory muscle stretching on the functional
+exercise capacity and thoracoabdominal kinematics in patients with COPD:
+A randomized and controlled trial. International Journal of Chronic
+Obstructive Pulmonary Disease, 11(1), 2691-2700.
+https://doi.org/10.2147/COPD.S114548
+
+Wedzicha, J. A., Bestall, J. C., Garrod, R., Garnham, R., Paul, E. A. &
+Jones, P. W. (1998). Randomized controlled trial of pulmonary
+rehabilitation in severe chronic obstructive pulmonary disease patients,
+stratified with the MRC dyspnoea scale. European Respiratory Journal,
+12(2), 363-369. https://doi.org/10.1183/09031936.98.12020363
+
+Zambom-Ferraresi, F., Cebollero, P., Gorostiaga, E., Hernández, M.,
+Hueto, J., Cascante, J., Rezusta, L., Val, L. & Anton, M. M. (2015).
+Effects of combine resistance and endurance training versus resistance
+training alone on strength, exercise capacity, and quality of life in
+patients with COPD. Journal of Cardiopulmonary Rehabilitation and
+Prevention, 35(6), 446-453. https://doi:10.1097/HCR.0000000000000132
